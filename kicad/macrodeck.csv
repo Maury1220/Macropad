@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2,D3,D4,D5,D6,D7,D8,D9","9","1N914","","","","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","http://www.vishay.com/docs/85622/1n914.pdf"
+"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9","9","CherryMX","","","","cherry:CPG151101S11_1.00u_PCB",""
+"SW10","1","RotaryEncoder_Switch","","","","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MountingHoles",""
+"U1","1","XIAO-RP2040-SMD","","","","Seeed_Studio_XIAO_Series:XIAO-RP2040-SMD",""

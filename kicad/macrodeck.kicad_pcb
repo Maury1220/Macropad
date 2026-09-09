@@ -2303,7 +2303,7 @@
 		(property "Reference" "SW4"
 			(at -2.54 9.906 0)
 			(layer "F.SilkS")
-			(uuid "891edf8b-9f6a-43a7-8fe1-0cb258fb422a")
+			(uuid "079fa1dd-905b-4f14-b233-f9cbe1d371ef")
 			(effects
 				(font
 					(size 1 1)
@@ -2314,7 +2314,7 @@
 		(property "Value" "CherryMX"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "50f3b9e9-b813-4656-bf53-4b41fabea4d6")
+			(uuid "694bb81a-6fe2-419d-9424-5c02d437d835")
 			(effects
 				(font
 					(size 1 1)
@@ -2326,7 +2326,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7776de3f-1bbd-456d-907d-32390db66dd4")
+			(uuid "d1f0e384-108b-4027-8881-97601f7b4c17")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2337,7 +2337,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ddb88e68-5ad4-40a6-bdcc-e5f430cab8f6")
+			(uuid "cca0ef14-c2ec-450d-91e8-c2776f79a9b8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5778,17 +5778,6 @@
 		(uuid "aa6d4c9c-e1d0-425f-91df-c357f785fb32")
 	)
 	(gr_arc
-		(start 67.3 41)
-		(mid 67.873231 40.073981)
-		(end 68.816703 39.529953)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "9af81d25-5f37-4ee0-bb96-30a8370b08cc")
-	)
-	(gr_arc
 		(start 68.5 126)
 		(mid 65.671573 124.828427)
 		(end 64.5 122)
@@ -5808,48 +5797,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "082a6e6c-8136-4ff6-859d-412e09c649de")
-	)
-	(gr_line
-		(start 68.7 41)
-		(end 70.15 42.35)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "e07a1c76-8b98-4c6a-a1b3-30e6405dcdf4")
-	)
-	(gr_arc
-		(start 69.55 39.45)
-		(mid 70.366985 38.528376)
-		(end 71.55 38.185841)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "36d44b8f-ff50-4730-8aa7-918d9cc2d223")
-	)
-	(gr_line
-		(start 70.75 39.65)
-		(end 72.35 41.15)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "de151d53-9e2d-486a-88f1-83e907026f39")
-	)
-	(gr_arc
-		(start 76.7 42.35)
-		(mid 74.670879 46.773408)
-		(end 69.907668 47.771246)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "2cfa3386-93b1-4547-9736-5ce8490f78bd")
 	)
 	(gr_line
 		(start 126 36)
