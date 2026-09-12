@@ -16,6 +16,12 @@ i managed to do many things today. for starters I was able to model the pcb of t
 
 no image today but the case came out looking great but i think i mesured the pcb wrong because it looked a little small for hot sawp switches to fit but I dont know. Also I managed to get the code in a beta but I have no idea how to code and I am still looking at learning about that so I asked the github guy for help 
 
+# Devlog #4
+
+![Alt text](images/Screenshot%202026-09-12%20163520.png)
+I have now finished everything needed to puch my first project!! Above it the final parts for the the building faze of my macrodeck.
+
+
 # if you wanna copy here is a Setup Guide
 
 ## Setup

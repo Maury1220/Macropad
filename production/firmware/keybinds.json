@@ -1,0 +1,50 @@
+{
+  "key_0": {
+    "type": "print",
+    "value": "Key 1 pressed"
+  },
+  "key_1": {
+    "type": "print",
+    "value": "Key 2 pressed"
+  },
+  "key_2": {
+    "type": "print",
+    "value": "Key 3 pressed"
+  },
+  "key_3": {
+    "type": "print",
+    "value": "Key 4 pressed"
+  },
+  "key_4": {
+    "type": "print",
+    "value": "Key 5 pressed"
+  },
+  "key_5": {
+    "type": "print",
+    "value": "Key 6 pressed"
+  },
+  "key_6": {
+    "type": "print",
+    "value": "Key 7 pressed"
+  },
+  "key_7": {
+    "type": "print",
+    "value": "Key 8 pressed"
+  },
+  "key_8": {
+    "type": "print",
+    "value": "Key 9 pressed"
+  },
+  "encoder_button": {
+    "type": "print",
+    "value": "Encoder button pressed"
+  },
+  "encoder_cw": {
+    "type": "print",
+    "value": "Encoder rotated clockwise"
+  },
+  "encoder_ccw": {
+    "type": "print",
+    "value": "Encoder rotated counter-clockwise"
+  }
+}
